@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/excited-beaded-wrist.glitch.me.ico",
     "slug": "monofile",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 15501,
-    "timeDay": 23303,
-    "timeWeek": 17682,
-    "timeMonth": 15831,
-    "timeYear": 15501,
+    "uptimeYear": "99.84%",
+    "time": 15099,
+    "timeDay": 643,
+    "timeWeek": 14790,
+    "timeMonth": 15263,
+    "timeYear": 15099,
     "dailyMinutesDown": {
       "2024-06-09": 76
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 326,
-    "timeWeek": 340,
-    "timeMonth": 329,
-    "timeYear": 331,
+    "time": 328,
+    "timeDay": 257,
+    "timeWeek": 341,
+    "timeMonth": 324,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   }
 ]
